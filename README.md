@@ -86,9 +86,12 @@ My mission is to make deployment processes seamless and infrastructure easily ma
 ## 📫 Let's Connect!
 
 📧 **Email:** [venkyy82@gmail.com](mailto:venkyy82@gmail.com)  
+
 💼 **LinkedIn:** [linkedin.com/in/venkateswara-reddy-813703295](http://linkedin.com/in/venkateswara-reddy-813703295)
+
 🐙 **GitHub:** [github.com/venkyy82](https://github.com/venkyy82)
 
+🧰 **Blogs:** **[dev.to/venkyy8](https://dev.to/venkyy8)**
 ---
 
 > 💬 *“Automation is not just about saving time — it’s about enabling innovation.”*
