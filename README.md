@@ -1,9 +1,4 @@
-Here’s a clean, professional **README.md** file you can directly use on your GitHub profile 👇
-(It highlights your DevOps experience, skills, and personality — ideal for recruiters and collaborators.)
 
----
-
-```markdown
 # 👋 Hi, I'm Venkateswara Reddy
 
 🚀 **Senior DevOps Engineer | Cloud & Automation Specialist**
