@@ -91,7 +91,7 @@ My mission is to make deployment processes seamless and infrastructure easily ma
 
 🐙 **GitHub:** [github.com/venkyy82](https://github.com/venkyy82)
 
-🧰 **Blogs:** **[dev.to/venkyy8](https://dev.to/venkyy8)**
+🧰 **Blogs:** [dev.to/venkyy8](https://dev.to/venkyy8)
 ---
 
 > 💬 *“Automation is not just about saving time — it’s about enabling innovation.”*
