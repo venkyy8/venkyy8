@@ -37,7 +37,7 @@ My mission is to make deployment processes seamless and infrastructure easily ma
 
 ### 🧠 Additional Tools & Concepts
 - **Git** — Version Control  
-- **Monitoring & Logging:** Prometheus, Grafana, ELK (optional if used)  
+- **Monitoring & Logging:** Prometheus, Grafana, and EFK
 - **Agile & DevOps Culture** — Collaboration and Continuous Improvement  
 
 ---
@@ -58,7 +58,7 @@ My mission is to make deployment processes seamless and infrastructure easily ma
 🔹 Enhancing multi-cloud **IaC automation** using Terraform & Ansible  
 🔹 Building resilient **Kubernetes** clusters and deployment pipelines  
 🔹 Developing reusable **CI/CD templates** for microservices  
-🔹 Implementing observability with **Prometheus**, **Grafana**, and **ELK**
+
 
 ---
 
@@ -86,7 +86,7 @@ My mission is to make deployment processes seamless and infrastructure easily ma
 ## 📫 Let's Connect!
 
 📧 **Email:** [venkyy82@gmail.com](mailto:venkyy82@gmail.com)  
-💼 **LinkedIn:** *(Add your LinkedIn profile here)*  
+💼 **LinkedIn:** [linkedin.com/in/venkateswara-reddy-813703295](http://linkedin.com/in/venkateswara-reddy-813703295)
 🐙 **GitHub:** [github.com/venkyy82](https://github.com/venkyy82)
 
 ---
@@ -95,6 +95,4 @@ My mission is to make deployment processes seamless and infrastructure easily ma
 
 Thanks for stopping by! 😊  
 Explore my repositories to see my DevOps projects and automation work.
-```
 
----
