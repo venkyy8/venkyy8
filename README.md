@@ -53,15 +53,6 @@ My mission is to make deployment processes seamless and infrastructure easily ma
 
 ---
 
-## 🏗️ Current Focus
-
-🔹 Enhancing multi-cloud **IaC automation** using Terraform & Ansible  
-🔹 Building resilient **Kubernetes** clusters and deployment pipelines  
-🔹 Developing reusable **CI/CD templates** for microservices  
-
-
----
-
 ## 📈 Career Highlights
 
 - Automated multi-cloud infrastructure provisioning using **Terraform & Ansible**  
