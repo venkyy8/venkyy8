@@ -9,7 +9,7 @@ I’m passionate about designing scalable, secure, and automated solutions that 
 
 ## 🧑‍💻 About Me
 
-I’m a **DevOps Engineer** with **Around 3 years of hands-on experience** in building and managing **cloud-native infrastructure**, **automation pipelines**, and **CI/CD systems** using leading DevOps tools and technologies.
+I’m a **DevOps Engineer** involved in building and managing **cloud-native infrastructure**, **automation pipelines**, and **CI/CD systems** using leading DevOps tools and technologies.
 
 I specialize in **AWS**, **Azure**, **Kubernetes**, **Terraform**, and **Ansible**, with a strong focus on automation and reliability.  
 My mission is to make deployment processes seamless and infrastructure easily maintainable.
