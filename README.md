@@ -1,4 +1,9 @@
-<img width="1103" height="720" alt="image" src="https://github.com/user-attachments/assets/d800e740-f67e-4f4f-a50b-1fab299cb87b" />
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEjdGkmyAkhUQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686406308216?e=1768435200&v=beta&t=IDnVwXVCjVXmqPvgAp86J8Q4V5PljWXzRXSTujgEUqM"
+       alt="DevSecOps Diagram"
+       width="400">
+</p>
+
 
 
 # 👋 Hi, I'm Venkateswara Reddy
